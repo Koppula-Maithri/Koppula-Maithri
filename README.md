@@ -40,11 +40,6 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koppula-Maithri&show_icons=true&theme=radical" width="48%" style="border-radius: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koppula-Maithri&theme=radical" width="48%" style="border-radius: 10px;" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koppula-Maithri&layout=compact&theme=radical" width="48%" style="border-radius: 10px;" />
 </p>
 
