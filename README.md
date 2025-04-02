@@ -1,23 +1,67 @@
-<h1 align="center">Hi 👋, I'm Koppula Maithri</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koppula-maithri&label=Profile%20views&color=0e75b6&style=flat" alt="koppula-maithri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koppula-maithri" alt="koppula-maithri" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/koppula-maithri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koppula-maithri" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kmaithri23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kmaithri23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/koppulamaithri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="koppulamaithri" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/22311a6914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="22311a6914" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kmaithri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kmaithri" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/22311ajwi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="22311ajwi1" height="30" width="40" /></a>
+<h1 align="center">🚀 Hi, I'm Koppula Maithri 👋</h1>
+<p align="center">
+  <b>Full-Stack Developer | React | Node.js | Express | C++ | MongoDB</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koppula-maithri&show_icons=true&locale=en&layout=compact" alt="koppula-maithri" /></p>
+<p align="center">
+  <img src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306555.jpg?t=st=1743539160~exp=1743542760~hmac=6b21073ba78288281c0d9b71aaf91f78b34afb16ebc37a47ac6f47d376e7a9d6&w=400" width="400" style="border-radius: 20px;"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koppula-maithri&show_icons=true&locale=en" alt="koppula-maithri" /></p>
+## 👨‍💻 About Me:
+- 💡 Passionate about building **scalable and efficient web applications**.
+- ⚡ Currently working on **real-time web apps & backend optimizations**.
+- 📖 Love **learning new technologies** and improving **problem-solving skills**.
+
+---
+
+## 🛠️ Tech Stack:
+
+### 🚀 Frontend:
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+
+### 🔧 Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+
+### 🗄️ Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+
+### 🖥️ Languages:
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Koppula-Maithri&show_icons=true&theme=radical" width="48%" style="border-radius: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koppula-Maithri&theme=radical" width="48%" style="border-radius: 10px;" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koppula-Maithri&layout=compact&theme=radical" width="48%" style="border-radius: 10px;" />
+</p>
+
+---
+
+## 🎯 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/koppula-maithri-304b102a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:kmaithri23@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/kmaithri" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.codechef.com/users/kmaithri23" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
