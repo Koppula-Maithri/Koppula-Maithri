@@ -1,3 +1,4 @@
+
 <h1 align="center">🚀 Hi, I'm Koppula Maithri 👋</h1>
 <p align="center">
   <b>Full-Stack Developer | React | Node.js | Express | C++ | MongoDB</b>
@@ -6,14 +7,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306555.jpg?t=st=1743539160~exp=1743542760~hmac=6b21073ba78288281c0d9b71aaf91f78b34afb16ebc37a47ac6f47d376e7a9d6&w=400" width="400" style="border-radius: 20px;"/>
+  <img src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg?ga=GA1.1.1719849280.1743538304&semt=ais_hybrid" width="1600" style="border-radius: 20px;"/>
 </p>
 
 ## 👨‍💻 About Me:
 - 💡 Passionate about building **scalable and efficient web applications**.
 - ⚡ Currently working on **real-time web apps & backend optimizations**.
 - 📖 Love **learning new technologies** and improving **problem-solving skills**.
-
+  
 ---
 
 ## 🛠️ Tech Stack:
